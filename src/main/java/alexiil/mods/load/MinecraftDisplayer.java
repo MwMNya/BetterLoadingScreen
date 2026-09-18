@@ -133,9 +133,10 @@ public class MinecraftDisplayer implements IDisplayer {
     private String textColor = "ffffff";
     private boolean randomBackgrounds = true;
     public static String[] randomBackgroundArray = new String[] { "betterloadingscreen:textures/backgrounds/1.png",
-            "betterloadingscreen:textures/backgrounds/2.png","betterloadingscreen:textures/backgrounds/3.png","betterloadingscreen:textures/backgrounds/4.png",
-            "betterloadingscreen:textures/backgrounds/5.png","betterloadingscreen:textures/backgrounds/6.png","betterloadingscreen:textures/backgrounds/7.png",
-            "betterloadingscreen:textures/backgrounds/8.png","betterloadingscreen:textures/backgrounds/9.png"};
+            "betterloadingscreen:textures/backgrounds/2.png", "betterloadingscreen:textures/backgrounds/3.png",
+            "betterloadingscreen:textures/backgrounds/4.png", "betterloadingscreen:textures/backgrounds/5.png",
+            "betterloadingscreen:textures/backgrounds/6.png", "betterloadingscreen:textures/backgrounds/7.png",
+            "betterloadingscreen:textures/backgrounds/8.png", "betterloadingscreen:textures/backgrounds/9.png" };
     private boolean blendingEnabled = true;
     private int changeFrequency = 40;
     private float blendTimeMillis = 2000;
